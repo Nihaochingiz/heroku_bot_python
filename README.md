@@ -7,7 +7,7 @@ Added the pyTelegramBotApi library
 2. Next, the bot asks for the phone (checks the phone with a regular expression)
 3. Then asks for the Name
 4. Adds data to the user_data array name, phone and date
-5. The bot is locked via the heroku app
+5. The bot is deployed via the heroku app
 
 
 
