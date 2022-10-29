@@ -2,7 +2,7 @@
 import re
 import telebot
 from telebot import types
-bot = telebot.TeleBot("5320653955:AAFLZ9_nwCyR6IFQ6ZPsiNQQ45z4R6-LULI")
+bot = telebot.TeleBot("token")
 
 
 pattern = "(\+7|8|7).*?(\d{3}).*?(\d{3}).*?(\d{2}).*?(\d{2})"
